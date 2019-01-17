@@ -1,0 +1,14 @@
+.topsection2 .col-md-4{
+  display:flex;
+  justify-content: center;
+}
+
+.tp2-1{
+  background:#999;
+  color:white;
+}
+
+.topsection2 .carousel-control-next-icon,.carousel-control-prev-icon{
+  width:15px;
+  height:15px;
+}
