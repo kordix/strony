@@ -11,8 +11,7 @@
 </head>
 
 <body>
-
-<?= $slides[0] ?>
+<?php include 'resources/slides.php' ?>
   <?php include 'views/navbar.html' ?>
   <?php include 'views/topsection1.html' ?>
 
@@ -22,7 +21,7 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <p>slide 1</p>
+              <p><?= $slides[0]->text ?> </p>
               <p>slide 1</p>
               <p>slide 1</p>
             </div>
