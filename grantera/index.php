@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/bootstrap.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/top2.css">
-
+  <link rel="stylesheet" href="/css/carousel.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 </head>
 
@@ -17,36 +17,15 @@
 
   <div class="container-fluid topsection2">
     <div class="row">
-      <div class="col-md-4 tp2-1">
-        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <p><?= $slides[0]->text ?> </p>
-              <p>slide 1</p>
-              <p>slide 1</p>
-            </div>
-            <div class="carousel-item">
-              <p>slide 2</p>
+      <?php include 'views/carousel.html' ?>
+      <div class="col-md-4 tp-2-2">
+        <div class="">
 
-            </div>
-            <div class="carousel-item">
-              <p>slide 3</p>
 
-            </div>
-          </div>
-
+        <p class="tag"># AKTUALNOŚCI</p>
+        <p class="title">Ogromne środki na innowacje w zasięgu polskich przedsiębiorstw</p>
+        <p class="text">fsdaf sdaf fsdfsdaf ss dfsdasfd asd sfda sdafsda fsda sfd sda sdaf sadf sda sdaf sdaf a ds sfda fsda sdaf sdaf sd fsadf sdfdsfa  sda sfdfs dsd asdsd f sda sdafsdaf  sfda sdf sda sadf. Agencja Rozwoju Pomorza ogłosiła nabór wniosków o dotację w ramach Poddziałania 1.1.1 Ekspansja przez innowacje. Pula śordków to 100 mln złotych wyłącznie dla pomorskich firm.</p>
         </div>
-        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
-      <div class="col-md-4">
-        asdf
       </div>
       <div class="col-md-4">
         asdf

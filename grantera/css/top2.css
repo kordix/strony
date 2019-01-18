@@ -1,14 +1,24 @@
 .topsection2 .col-md-4{
   display:flex;
-  justify-content: center;
+  /* justify-content: center; */
+  align-items:center;
+  padding:40px;
 }
 
-.tp2-1{
-  background:#999;
-  color:white;
+.tp-2-2{
+  background:rgba(240,240,240,0.6);
+  border-right:1px black solid;
+  border-style:dotted;
+}
+.tp-2-2 .tag{
+font-size:1.2em;
 }
 
-.topsection2 .carousel-control-next-icon,.carousel-control-prev-icon{
-  width:15px;
-  height:15px;
+.tp-2-2 .title{
+font-size:1.2em;
+font-weight:bold;
+}
+
+.tp-2-2 .text{
+
 }

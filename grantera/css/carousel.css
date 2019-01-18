@@ -1,0 +1,49 @@
+:root{
+  --arrowsdistance:20px;
+}
+
+.tp2-1{
+  background:#999;
+  color:white;
+}
+
+.tp2-1 .quote{
+  font-family: Times New Roman;
+  font-size:2em;
+  line-height:1em;
+  margin:0;
+  padding:0;
+}
+
+.tp-2-1 .carousel-item{
+ 
+}
+
+.tp2-1 .text{
+  text-align:justify;
+}
+
+.tp2-1 .caption{
+  font-size:1.2em;
+}
+
+.topsection2 .carousel-control-next,.carousel-control-prev{
+  top:20px;
+  align-items:flex-end;
+  justify-content: center;
+}
+
+.topsection2 .carousel-control-next{
+  right: 100px;
+}
+
+.topsection2 .carousel-control-prev{
+  left: 100px;
+}
+
+.topsection2 .carousel-control-next-icon,.carousel-control-prev-icon{
+  width:15px;
+  height:15px;
+  bottom:20px;
+  position:relative;
+}
