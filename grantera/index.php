@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="/css/effects.css">
     <link rel="stylesheet" href="/css/mynavbar.css">
     <link rel="stylesheet" href="/css/brand.css">
-    
     <link rel="stylesheet" href="/css/carousel.css">
     <link rel="stylesheet" href="css/top2.css">
     <link rel="stylesheet" href="css/mid.css">
@@ -95,8 +94,6 @@
             </div>
         </div>
     </div>
-
-
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>

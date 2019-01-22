@@ -2,7 +2,7 @@
 <nav id="mynavbar" class="navbar navbar-expand-md navbar-light bg-light">
   <div class="container wrapcancel">
 
-<a href="#" class="navbar-brand thisbrand magn"><?= $company ?></a>
+<a href="#" id="brand" class="navbar-brand" ><?= $company ?></a>
     <div class="collapse navbar-collapse">
       <ul class="navbar navbar-nav ml-auto">
         <li class="nav-item dropdown" data-toggle="dropdown">

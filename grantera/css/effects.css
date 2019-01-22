@@ -24,7 +24,7 @@ padding:30px;
 }
 
 .magn:hover{
-    display:inline-block;
+    display:block;
     width:120%;
     height:120%;
     font-size:120%;
