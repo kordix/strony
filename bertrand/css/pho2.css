@@ -13,11 +13,11 @@ line-height: 24px;
 }
 @font-face {
   font-family: 'pho';
-  src: url('./font/pho.eot?61660786');
-  src: url('./font/pho.eot?61660786#iefix') format('embedded-opentype'),
-       url('./font/pho.woff?61660786') format('woff'),
-       url('./font/pho.ttf?61660786') format('truetype'),
-       url('./font/pho.svg?61660786#pho') format('svg');
+  src: url('../font/pho.eot?61660786');
+  src: url('../font/pho.eot?61660786#iefix') format('embedded-opentype'),
+       url('../font/pho.woff?61660786') format('woff'),
+       url('../font/pho.ttf?61660786') format('truetype'),
+       url('../font/pho.svg?61660786#pho') format('svg');
   font-weight: normal;
   font-style: normal;
 }
