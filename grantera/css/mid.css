@@ -1,0 +1,13 @@
+.mid1{
+    background-image: linear-gradient(30deg, #c3c3c3 49%, #ffffff 81%);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+h2{
+    font-size:1.4em;
+}
+
+.midwrapper .container{
+    padding-top:30px;
+    padding-bottom:30px;
+}

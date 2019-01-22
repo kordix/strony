@@ -7,7 +7,7 @@
 
 .tp-2-2{
   background:rgba(240,240,240,0.6);
-  border-right:1px black solid;
+  border:1.5px;
   border-style:dotted;
 }
 .tp-2-2 .tag{
@@ -21,4 +21,9 @@ font-weight:bold;
 
 .tp-2-2 .text{
 
+}
+
+.tp-2-3{
+    border:1px dotted;
+    border-left:0px;
 }

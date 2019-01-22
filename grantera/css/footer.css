@@ -1,0 +1,43 @@
+#footer{
+    background:#494949;
+    padding:30px;
+    color:white;
+}
+
+#footer h3{
+    font-size:1.2rem;
+}
+
+#footer ul{
+    display:block;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    font-size:0.9em;
+}
+
+#footer a{
+    color:#999;
+    font-weight:500;
+}
+
+#footer .col-sm-12{
+padding:15px;
+}
+
+#footer .socials{
+    display:inline-block;
+    font-size:2em;
+}
+
+#footer > .row{
+    padding:15px;
+}
+
+#firm a{
+    color:white !important;
+}
+
+#firm span{
+    color:#999;
+}

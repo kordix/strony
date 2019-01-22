@@ -4320,6 +4320,7 @@ input[type="button"].btn-block {
     justify-content: flex-start;
   }
   .navbar-expand-md .navbar-nav {
+
     -ms-flex-direction: row;
     flex-direction: row;
   }
