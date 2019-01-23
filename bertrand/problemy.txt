@@ -1,0 +1,3 @@
+#slide-bg-2 - przy margin auto znika obrazek
+
+slide bg na element style zadziała background inaczej nie nawet z important, co ciekawe important zadziała jak jest inline
