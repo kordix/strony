@@ -30,8 +30,24 @@ bottom:10px;
 position:relative;
 }
 
-/*
+#wicon-bt{
+  padding-right:0.2em;
+
+}
+
+
 #m1{
-  display:flex;
-  justify-content: flex-end;
-} */
+padding:30px;
+padding-top:10px;
+}
+
+.btn-mylight{
+  background-color: rgba(200,200,200,0.8) !important;
+  color:var(--gray-dark);
+  
+}
+
+.btn-mylight:hover{
+  background-color: #999!important;
+  color:black;
+}

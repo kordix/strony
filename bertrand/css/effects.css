@@ -45,3 +45,11 @@ border-top: 1px solid #444444;
 margin-top: 16px;
 margin-left: -500px;
 }
+
+.magn{
+    transition:0.5s;
+}
+
+.magn:hover{
+    font-size:110%;
+}

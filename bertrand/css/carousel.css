@@ -48,6 +48,7 @@
 }
 
 #slidebg-2{
+  /* margin:auto; */
   background:url(../images/slide2.png) no-repeat center center / cover;
   background-color: rgba(50,50,50,0.1) !important;
   background-blend-mode: color-burn !important;
@@ -55,11 +56,9 @@
 
 #slidebg-3{
   background:url(../images/slide3.png) no-repeat center center / cover;
-  /* background-color: rgba(50,50,50,0.1) !important;
-  background-blend-mode: color-burn !important; */
-  /* max-width: 100%; */
+  background-color: rgba(50,50,50,0.1) !important;
+  background-blend-mode: color-burn !important;
   width: calc(100px + 200 * ((100vw - 320px) / 680));
-  /* height:200px; */
   height: calc(100px + 200 * ((100vw - 320px) / 680));
   background-repeat:no-repeat;
    background-size:contain;
