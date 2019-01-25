@@ -1,10 +1,16 @@
 #mid{
+  padding-top:1rem;
   background:#222;
-  height:400px;
   color:white !important;
 }
 
-.midicon {
-
-
+#midicons i{
+font-size:5rem;
+display:inline-block;
+}
+#midicons .col{
+  padding:15px;
+}
+#mid2{
+  padding-top:1rem;
 }

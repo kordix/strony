@@ -55,7 +55,6 @@
 
 #slidebg-3{
   background:url(../images/slide3.png) no-repeat center center / cover;
-  background-size:90% 90%;
   background-color: rgba(50,50,50,0.1) !important;
   background-blend-mode: color-burn !important;
 }
@@ -63,13 +62,13 @@
 .carousel-button{
   margin:auto;
   display:inline-block;
-
+  font-size: calc(10px + 7 * ((100vw - 320px) / 680)) !important;
 }
 
 #carouseltop p {
-   font-size: calc(15px + 6 * ((100vw - 320px) / 680)) !important;
+   font-size: calc(10px + 7 * ((100vw - 320px) / 680)) !important;
 }
 
 #carouseltop .carousel-text {
-   font-size: calc(12px + 6 * ((100vw - 320px) / 680)) !important;
+   font-size: calc(8px + 7 * ((100vw - 320px) / 680)) !important;
 }

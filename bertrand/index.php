@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="css/carousel.css">
   <link rel="stylesheet" href="css/effects.css">
   <link rel="stylesheet" href="css/mid.css">
+  <link rel="stylesheet" href="css/style.css">
+
 
 
 
@@ -20,34 +22,20 @@
 <body>
   <?php include 'views/navbar.html' ?>
   <?php include 'views/carousel.html' ?>
+  <?php include 'views/mid.html' ?>
 
-  <section id="mid" class="container-fluid">
-    <div class="container">
-      <div class="row">
-
-        <div class="col-md-4" style="display:flex;align-items:center;height:400px">
-          <div>
-            <h3>Oferta XXX</h3>
-            <p> Produkty XXX charakteryzują się najwyższą jakością, potwierdzoną certyfikatami. Do produkcji stolarki firma stosuje nowoczesne technologie oraz wykorzystuje szeroką gamę materiałów: różne gatunki drewna, systemy profili PVC i
-              aluminiowych, a także materiały drewniano-aluminiowe i PVC-aluminiowe</p>
-          </div>
-
-        </div>
-        <div class="col-md-8" id="midicons">
-          <div class="row">
-            <div class="col-md-3">
-
-            </div>
-          </div>
-
-
-
-        </div>
-      </div>
-
-    </div>
-    </div>
-  </section>
+<section class="container" id="mid2">
+<h1><i class="h-initial">G</i>dzie <b>kupić</b></h1>
+<p>Nasze salony i partnerzy służą Państwu fachowym doradztwem i pomocą. To miejsca przygotowane specjalnie dla Państwa, by dostarczyć informacji oraz dopasować najlepszy produkt w pełni spełniający Państwa potrzeby.</p>
+<div class="row">
+  <div class="col-md-6">
+    <img class="img-fluid" src="images/mid2-1.jpg" alt="">
+  </div>
+  <div class="col-md-6">
+    <img class="img-fluid" src="images/mid2-2.jpg" alt="">
+  </div>
+</div>
+</section>
 
 
 

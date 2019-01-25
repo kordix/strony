@@ -22,3 +22,26 @@
 .navbar-nav{
 flex-direction: row;
 }
+
+.h-initial{
+  display:inline-block;
+  border:1px #444444 solid;
+  color:#444444;
+  font-style:normal;
+  margin-right:3px;
+  width:45px;
+  height:40px;
+  padding:3px;
+  text-align:center;
+  font-size:2rem;
+  line-height: 30px;
+}
+
+.h-initial::before{
+  content: '';
+position: absolute;
+width: 490px;
+border-top: 1px solid #444444;
+margin-top: 16px;
+margin-left: -500px;
+}
