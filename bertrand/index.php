@@ -39,7 +39,7 @@
 
 
             <div class="iwrapper">
-              <div style="display:flex;justify-content:center"> <p class="title">Drzwi fsdf</p></div>
+             <p class="title">Drzwi fsdf</p>
               <i class="fab fa-windows" style="display:block;margin:auto"></i>
             </div>
             <div class="iwrapper" style="padding:15px;">
@@ -49,7 +49,7 @@
             <div class="iwrapper">
               <p class="title">Taras/Balkon</p>
               <i class="fab fa-windows" style="display:block;margin:auto"></i>
-          
+
           </div>
 
           </div>
