@@ -3,3 +3,5 @@
 slide bg na element style zadziała background inaczej nie nawet z important, co ciekawe important zadziała jak jest inline
 
 w #m1 max-width, nie trzyma kolumn
+
+jak zrobić h-initial semantycznie klasa dla koloru chyba sass
