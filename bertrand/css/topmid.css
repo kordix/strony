@@ -81,10 +81,17 @@ color:var(--gray-dark);
   inset 0 -0.05em 0px red,
    inset 0 -0.01em 0px #999;
    color:red !important;
+   text-decoration:none;
 }
 
-@media(min-width:600px){
-    .responsetest{
-        font-size:30px;
+@media(max-width:768px){
+    .btfloat{
+        margin:auto;
+    }
+}
+
+@media(min-width:768px){
+    .btfloat{
+        margin-left:auto;
     }
 }

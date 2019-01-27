@@ -72,7 +72,6 @@
                 <div class="row">
 
                     <div class="col-md-2 border">
-                        fdsaaf
                     </div>
                     <div class="col-md-10 border">
                         <div class="row">
@@ -128,13 +127,13 @@
         </div>
     </div>
 
+    <div class="row">
+        <div class="d-flex btfloat" style="padding:1vw"><button class="btn btn-secondary" style="text-transform:uppercase" type="button" name="button"><i class="fas fa-arrow-circle-right"></i> czytaj wszystkie aktualności</button></div>
     </div>
+</div>
 
     </section>
 
-    <div class="responsetest">
-        <p class="responsetest">fdsafdad</p>
-    </div>
 
 
     <script src="js/jquery-3.3.1.js"></script>
