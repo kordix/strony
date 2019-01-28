@@ -124,9 +124,13 @@ text-align:center;
 }
 
 #footer li {
-  list-style:square;
-  display:inline-block;
+  list-style:square !important;
+  /* display:inline-block; */
   border-bottom:1px var(--gray-dark) solid;
+}
+
+#footer li:hover{
+    color:var(--gray-dark)
 }
 
 #footer > .container{
@@ -136,4 +140,8 @@ text-align:center;
 
 #footer i {
   width:30px;
+}
+
+#footertext{
+    text-align:center;
 }

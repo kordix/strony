@@ -72,9 +72,9 @@
                 <div class="row">
 
                     <div class="col-md-2 d-flex align-items-center">
-                      <div style="border-top:1px black dotted;width:100%;position:relative;bottom:30px">
+                        <div style="border-top:1px black dotted;width:100%;position:relative;bottom:30px">
 
-                      </div>
+                        </div>
                     </div>
                     <div class="col-md-10">
                         <div class="row" style="flex-wrap:nowrap">
@@ -87,7 +87,9 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="d-flex mx-auto"><p><span style="text-align:center;background:green;color:white;border-bottom:1px black solid;padding:10px"><i class="fas fa-check"></i> POBIERZ PDF</span></p></div>
+                            <div class="d-flex mx-auto">
+                                <p><span style="text-align:center;background:green;color:white;border-bottom:1px black solid;padding:10px"><i class="fas fa-check"></i> POBIERZ PDF</span></p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -101,103 +103,102 @@
         <h1><i class="h-initial mylight">A</i>Aktualności</h1>
         <div class="emptywrapper newsborders ">
 
-        <div class="row">
-            <div class="col-md-2">
-                <img  class="img-fluid" src="https://www.bertrand.pl/cache/mod_news_show_sp2/nssp2_thumbs/129/20181012_BB_PVC_BB-Line_82_biale_tlo_100x100.jpg" alt="">
-             </div>
-            <div class="col-md-7">
-                <p class="title">Nowość w xxx - okna xxx</p>
-                <p class="date">12 styczeń 2019</p>
+            <div class="row">
+                <div class="col-md-2">
+                    <img class="img-fluid" src="https://www.bertrand.pl/cache/mod_news_show_sp2/nssp2_thumbs/129/20181012_BB_PVC_BB-Line_82_biale_tlo_100x100.jpg" alt="">
+                </div>
+                <div class="col-md-7">
+                    <p class="title">Nowość w xxx - okna xxx</p>
+                    <p class="date">12 styczeń 2019</p>
+                </div>
+                <div class="col-md-3 d-flex my-auto">
+                    <p><a class="readmore" href="#">Czytaj więcej</a></p>
+                </div>
             </div>
-            <div class="col-md-3 d-flex my-auto">
-                <p><a class="readmore" href="#">Czytaj więcej</a></p>
+            <div class="row">
+                <div class="col-md-2">
+                    <img class="img-fluid" src="https://www.bertrand.pl/cache/mod_news_show_sp2/nssp2_thumbs/129/20181012_BB_PVC_BB-Line_82_biale_tlo_100x100.jpg" alt="">
+                </div>
+                <div class="col-md-7">
+                    <p class="title">Nowość w xxx - okna xxx</p>
+                    <p class="date">12 styczeń 2019</p>
+                </div>
+                <div class="col-md-3 d-flex my-auto">
+                    <p><a class="readmore" href="#">Czytaj więcej</a></p>
+                </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-2">
-                <img  class="img-fluid" src="https://www.bertrand.pl/cache/mod_news_show_sp2/nssp2_thumbs/129/20181012_BB_PVC_BB-Line_82_biale_tlo_100x100.jpg" alt="">
-             </div>
-            <div class="col-md-7">
-                <p class="title">Nowość w xxx - okna xxx</p>
-                <p class="date">12 styczeń 2019</p>
-            </div>
-            <div class="col-md-3 d-flex my-auto">
-                <p><a class="readmore" href="#">Czytaj więcej</a></p>
-            </div>
-        </div>
-    </div>
 
-    <div class="row">
-        <div class="d-flex btfloat" style="padding:1vw"><button class="btn btn-secondary" style="text-transform:uppercase" type="button" name="button"><i class="fas fa-arrow-circle-right"></i> czytaj wszystkie aktualności</button></div>
-    </div>
+        <div class="row">
+            <div class="d-flex btfloat" style="padding:1vw"><button class="btn btn-secondary" style="text-transform:uppercase" type="button" name="button"><i class="fas fa-arrow-circle-right"></i> czytaj wszystkie aktualności</button></div>
+        </div>
 
     </section>
 
     <section class="container" id="realizations">
 
-      <h1><i class="h-initial mylight" style="color:var(--mylight)">N</i> Nasze realizacje</h1>
-      <p>Produkty XXX charakteryzują się najwyższą jakością, potwierdzoną certyfikatami. Do produkcji stolarki firma stosuje nowoczesne technologie oraz wykorzystuje szeroką gamę materiałów: różne gatunki drewna, systemy profili PVC i aluminiowych, a także materiały drewniano-aluminiowe i PVC-aluminiowe.</p>
-      <div class="row">
-        <div class="col-md-4">
-          <figure>
-          <figcaption>Budownictwo jednorodzinne</figcaption>
-            <img class="img-fluid" src="https://www.bertrand.pl/images/02_main_page/projects_01.jpg" alt="">
-          </figure>
+        <h1><i class="h-initial mylight" style="color:var(--mylight)">N</i> Nasze realizacje</h1>
+        <p>Produkty XXX charakteryzują się najwyższą jakością, potwierdzoną certyfikatami. Do produkcji stolarki firma stosuje nowoczesne technologie oraz wykorzystuje szeroką gamę materiałów: różne gatunki drewna, systemy profili PVC i aluminiowych, a także
+            materiały drewniano-aluminiowe i PVC-aluminiowe.</p>
+        <div class="row">
+            <div class="col-md-4">
+                <figure>
+                    <figcaption>Budownictwo jednorodzinne</figcaption>
+                    <img class="img-fluid" src="https://www.bertrand.pl/images/02_main_page/projects_01.jpg" alt="">
+                </figure>
+            </div>
+            <div class="col-md-4">
+                <figure>
+                    <figcaption>Budownictwo inwestycyjne</figcaption>
+                    <img class="img-fluid" src="https://www.bertrand.pl/images/02_main_page/projects_02.jpg" alt="">
+                </figure>
+            </div>
+            <div class="col-md-4">
+                <figure>
+                    <figcaption>Fasady</figcaption>
+                    <img class="img-fluid" src="https://www.bertrand.pl/images/02_main_page/projects_03.jpg" alt="">
+                </figure>
+            </div>
         </div>
-        <div class="col-md-4">
-          <figure>
-          <figcaption>Budownictwo inwestycyjne</figcaption>
-            <img class="img-fluid" src="https://www.bertrand.pl/images/02_main_page/projects_02.jpg" alt="">
-          </figure>
-        </div>
-        <div class="col-md-4">
-          <figure>
-          <figcaption>Fasady</figcaption>
-            <img class="img-fluid" src="https://www.bertrand.pl/images/02_main_page/projects_03.jpg" alt="">
-          </figure>
-        </div>
-      </div>
     </section>
 
     <section id="footer" class="container-fluid">
-<div class="container">
-  <div class="row">
+        <div class="container">
+            <div class="row">
 
-  <div class="col-md-5">
+                <div class="col-md-5">
 
-    <img src="https://www.bertrand.pl/images/02_main_page/bb_contact_logo.png" alt="">
-    <p><i class="fas fa-phone"></i>+48 XXX XXX XXX</p>
-    <p><i class="far fa-envelope"></i>info@firma.pl</p>
-    <p><i class="fas fa-map-marker-alt"></i>ul. xxxx Gdynia Polska</p>
+                    <img src="https://www.bertrand.pl/images/02_main_page/bb_contact_logo.png" alt="">
+                    <p><i class="fas fa-phone"></i>+48 XXX XXX XXX</p>
+                    <p><i class="far fa-envelope"></i>info@firma.pl</p>
+                    <p><i class="fas fa-map-marker-alt"></i>ul. xxxx Gdynia Polska</p>
 
-  </div>
+                </div>
 
+                <div class="col-md-7">
+                    <h3 style="color:white">Aktualności</h3>
+                    <ul>
+                        <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></li>
+                        <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></li>
+                        <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></li>
+                        <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></li>
+                        <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></li>
+                    </ul>
+                </div>
 
+            </div>
 
-
-  <div class="col-md-7">
-    <ul>
-      <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
-      <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
-      <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
-
-    </ul>
-  </div>
-
-</div>
-
-</div>
+        </div>
 
     </section>
+    <div class="container" id="footer2" style="padding-top:3vw;padding-bottom:3vw">
 
-<div class="container">
-  <ul>
-    <li>test</li>
-    <li>test</li>
-    <li>test</li>
+        <div class="d-flex justify-content-center">
+            <img class="img-fluid" src="https://www.bertrand.pl/images/FE-PR-EU-PL-v5.jpg" alt="">
+        </div>
+    </div>
+    <p id="footertext">© kordix technologies</p>
 
-  </ul>
-</div>
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js"></script>
