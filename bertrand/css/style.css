@@ -1,4 +1,13 @@
+p{
+  text-align: justify;
+}
 
+
+#news, #carouseltop, #top, #top2,#mid1,#mid2,#realizations{
+  opacity:0.1;
+  transition:0.7s;
+  margin-top:100px;
+}
 
 h1{
   font-size:1.75rem;
