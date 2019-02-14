@@ -24,7 +24,7 @@
     <?php include 'views/carousel.html' ?>
     <?php include 'views/top.html' ?>
 
-    <section class="container" id="top2">
+    <section class="container" id="top2">php -S
         <h1><i class="h-initial">G</i>dzie <b>kupić</b></h1>
         <p>Nasze salony i partnerzy służą Państwu fachowym doradztwem i pomocą. To miejsca przygotowane specjalnie dla Państwa, by dostarczyć informacji oraz dopasować najlepszy produkt w pełni spełniający Państwa potrzeby.</p>
         <div class="row">
