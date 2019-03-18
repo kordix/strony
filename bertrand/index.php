@@ -197,7 +197,7 @@
             <img class="img-fluid" src="https://www.bertrand.pl/images/FE-PR-EU-PL-v5.jpg" alt="">
         </div>
     </div>
-    <p id="footertext">© kordix technologies</p>
+    <p id="footertext">©stopka</p>
 
 
 
